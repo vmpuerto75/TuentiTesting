@@ -1,5 +1,4 @@
-
-** Tuenti Testing Testsuite **
+**Tuenti Testing Testsuite**
 
 This repository contains the a Selenium test suite to execute the regression test on Tuenti website. At 09/11/2017 only contains some test for the login page in the LoginTestWD test suite. These are the implemented test and the testbook equivalence:
 
